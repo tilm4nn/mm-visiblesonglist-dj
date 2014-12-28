@@ -1,12 +1,14 @@
 MediaMonkey VisibleSongList DJ
 ------------------------------
+Copyright (C) 2014 Tilmann Kuhn
+See LICENSE.txt for details of the MIT license.
 
 Contents:
 
 * Purpose
 * Target audience
 * Installation notes
-* Changes History
+* Change history
 * Contents of the release
 * How to contact me 
 * Limitations and bugs
@@ -40,7 +42,8 @@ Then go to Tools > Options... > Auto-DJ/Now Playing and Enable Auto-DJ and
 Select files from: Visible Song List
 
 
-CHANGES HISTORY
+CHANGE HISTORY
+1.0.1    - Updated README, LICENSE
 1.0.0    - First release.
 
 
@@ -49,8 +52,6 @@ HOW TO CONTACT ME
 
 http://www.tkuhn.de
 visiblesonglistdj@tkuhn.de
-http://www.object-zoo.net
-visiblesonglistdj@object-zoo.net
 
 
 
