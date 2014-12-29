@@ -29,7 +29,7 @@ song list is played randomly once again.
 
 TARGET AUDIENCE
 
-MediaMonkey users that like to have an Auto-DJ that adapts to their
+MediaMonkey users who like to have an Auto-DJ that adapts to their
 behavior of changing filters like occasion/mood/genre.
 
 
